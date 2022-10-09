@@ -2,3 +2,40 @@
     margin: 0;
     padding: 0;
 }
+header{
+    height: 25vh;
+    background: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+} 
+main{
+    height: 70vh;
+    background: lightyellow;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+article{
+    /* width: 180px; */
+}
+
+footer{
+    height: 15vh;
+    background: olive;
+}
+
+figure{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 130px;
+    width: 130px;
+}
+ 
